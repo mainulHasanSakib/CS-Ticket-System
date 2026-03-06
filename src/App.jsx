@@ -1,12 +1,13 @@
 
 import './App.css'
+import Header from './Component/Shared/Header/Header'
 
 function App() {
   
 
   return (
     <>
-      <h2>It's Working</h2>
+      <Header></Header>
     </>
   )
 }
